@@ -1,0 +1,15 @@
+{
+  "name": "UniCre8",
+  "short_name": "UniCre8",
+  "description": "Digital marketing solutions: we shoot, we edit, we design.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F5F5F3",
+  "theme_color": "#0D0D0D",
+  "icons": [
+    {"src": "android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "maskable-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"},
+    {"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
